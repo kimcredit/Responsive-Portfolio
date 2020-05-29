@@ -1,0 +1,66 @@
+/* == elements == */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+Body {
+    font-family: 'Mukta', sans-serif;
+}
+
+/* == Menu == */
+
+.main-menu {
+    background-color: rgb(255, 252, 112);
+}
+
+.navbar-brand {
+    margin-left: 60px;
+}
+
+.nav-link {
+    margin-right: 60px;
+}
+
+/* == Bio == */
+
+main {
+    background: linear-gradient(35deg, rgb(218, 220, 221) 50%, rgb(228, 101, 101) 50%);
+    margin: 20px;
+    margin-top: 30px;
+    border-radius: 6px;
+    padding: 80px;
+}
+
+.card {
+    border: none;
+    margin: 0 auto;
+    float: none;
+}
+
+.card-body {
+    padding-bottom: 80px;
+}
+
+.col-md-8 {
+    background-color: rgb(255, 252, 112);
+}
+
+.card-text {
+    padding-top: 40px;
+}
+
+/* == Footer == */
+
+.fixed-bottom {
+    background: rgb(245, 245, 245);;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo-links{
+    padding: 0px;
+    margin: 0 auto;
+}
