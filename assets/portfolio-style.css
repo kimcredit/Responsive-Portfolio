@@ -24,7 +24,8 @@ Body {
     margin-right: 60px;
 }
 
-/* == Projects == */
+
+/* == Main == */
 
 main {
     margin: 20px;
@@ -33,6 +34,7 @@ main {
     padding-bottom: 80px;
 }
 
+/* ==active state */
 .card {
     border: none;
 }
@@ -56,6 +58,20 @@ main {
 .row-two {
     margin-top: 30px;
 }
+
+/* == hover state == */
+
+.card:hover {
+   opacity: 70%;
+}
+
+
+
+.card-title:hover,
+.card-text:hover {
+    background-color: rgb(228, 101, 101);
+}
+
 
 /* == Footer == */
 
