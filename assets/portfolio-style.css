@@ -24,6 +24,39 @@ Body {
     margin-right: 60px;
 }
 
+/* == Projects == */
+
+main {
+    margin: 20px;
+    margin-top: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: 5px;
+    left: auto;
+    padding: 10px;
+}
+
+.card-title,
+.card-text {
+    background-color: rgb(255, 252, 112);
+    padding-left: 5px;
+    padding-right: 30px;
+}
+
+.row-two {
+    margin-top: 30px;
+}
+
 /* == Footer == */
 
 .fixed-bottom {

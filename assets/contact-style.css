@@ -24,6 +24,25 @@ Body {
     margin-right: 60px;
 }
 
+/* == contact form == */
+
+main {
+    background: linear-gradient(35deg, rgb(218, 220, 221) 50%, rgb(228, 101, 101) 50%);
+    margin: 20px;
+    margin-top: 30px;
+    border-radius: 6px;
+    padding: 80px;
+}
+
+form{
+    border: none;
+    margin: 0 auto;
+    margin-bottom: 55px;
+}
+
+.form-group {
+    width: 400px;
+}
 
 /* == Footer == */
 
