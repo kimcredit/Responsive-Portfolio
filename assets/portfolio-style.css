@@ -85,3 +85,15 @@ main {
     padding: 0px;
     margin: 0 auto;
 }
+@media screen and (max-width: 995px) {
+
+    .wrapper {
+        width: 995px;
+    }
+@media screen and (max-width: 768px) {
+    .card {
+       height: 500px;
+       width: 500px;
+       margin: 10px;
+    }
+

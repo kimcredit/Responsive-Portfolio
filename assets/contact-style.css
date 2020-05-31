@@ -56,3 +56,15 @@ form{
     padding: 0px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 600px) {
+
+    .form-group {
+        width: 300px;
+    }
+
+@media screen and (max-width: 500px) {
+
+    .form-group {
+        width: 200px;
+    }

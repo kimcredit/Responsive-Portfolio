@@ -64,3 +64,10 @@ main {
     padding: 0px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+
+    .card {
+       height: 30px;
+       width: 30px;
+    }
